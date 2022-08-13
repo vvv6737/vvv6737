@@ -4,7 +4,8 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Kotlin-6940c2?style=for-the-badge&logo=Kotlin&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Kotlin-6940c2?style=for-the-badge&logo=Kotlin&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/android-33d780?style=for-the-badge&logo=android&logoColor=white"/> 
   <br>
   <img src="https://img.shields.io/badge/Mysql-015E87?style=for-the-badge&logo=MySql&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/oracle-EA3133?style=for-the-badge&logo=oracle&logoColor=white"/>&nbsp
@@ -15,6 +16,12 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <br>
 </p>
+
+<br>
+<h2 align="center"> ⚒ </h2>
+
+![vvv6737's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvv6737&show_icons=true&theme=radical)
+![vvv6737's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvv6737&show_icons=true&theme=radical)
 
 <br>
 
