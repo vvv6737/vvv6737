@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=welcome&fontSize=50)
+
 ### Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvv6737)](https://github.com/vvv6737/github-readme-stats)
