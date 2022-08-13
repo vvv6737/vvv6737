@@ -1,22 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=welcome&fontSize=50)
+<h2 align="center"> 💻 </h2>
 
-### Hi there 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp 
+  <br>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvv6737)](https://github.com/vvv6737/github-readme-stats)
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvv6737)](https://github.com/vvv6737/github-readme-stats)
-
-<!--
-**vvv6737/vvv6737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center"> 🛰 </h2>
+<p align="center">
+  <a href="https://www.instagram.com/0.001118_mile/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/0.001118_mile/"/>   </a>&nbsp
+  <a href="mailto:viliketh1s98@naver.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/>
+  </a>
+</p>
