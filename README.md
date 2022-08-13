@@ -2,6 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvv6737)](https://github.com/vvv6737/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvv6737)](https://github.com/vvv6737/github-readme-stats)
+
 <!--
 **vvv6737/vvv6737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
