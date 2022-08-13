@@ -7,7 +7,8 @@
   <img src="https://img.shields.io/badge/Kotlin-6940c2?style=for-the-badge&logo=Kotlin&logoColor=white"/> 
   <br>
   <img src="https://img.shields.io/badge/Mysql-015E87?style=for-the-badge&logo=MySql&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/oracle-EA3133?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/oracle-EA3133?style=for-the-badge&logo=oracle&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Firebase-ffc92c?style=for-the-badge&logo=Firebase&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/jquery-1065a9?style=for-the-badge&logo=jquery&logoColor=white"/>&nbsp 
@@ -23,7 +24,7 @@
     <img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>&nbsp 
   <a href="https://www.instagram.com/0.001118_mile/">
-    <img src="https://img.shields.io/badge/Instagram-C50CF1?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/0.001118_mile/"/>
+    <img src="https://img.shields.io/badge/Instagram-C50CF1?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>&nbsp
   <a href="mailto:vvv6737@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=vvv6737@gmail.com"/>
