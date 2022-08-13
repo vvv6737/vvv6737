@@ -20,7 +20,7 @@
   </p>
 
   <br>
-  <h2 align="center"> ⚒ </h2>
+  <h2 align="center"> 🛠 </h2>
 
   ![vvv6737's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvv6737&show_icons=true&theme=radical)
 
